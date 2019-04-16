@@ -101,10 +101,11 @@ façon qu'il leur soit permis de ne pas être constamment à l'affût des sons �
   traditionnelle auditive qui contraint les parents (ou un tiers) à constamment prêter l'oreille, et donc à ne pas pouvoir se 
   livrer à certaines activités (jardiner à l'extérieur, voir un match de foot dans le salon, prendre un bain, etc.) que celles-ci 
   soient cognitives ou non.
-
-
-
-
+  
+  
+  
+  
+  
 
 
 
