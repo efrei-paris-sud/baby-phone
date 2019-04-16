@@ -22,12 +22,12 @@ S’il ne sait pas connecter, il doit rentrer dans un formulaire : L’âge, le 
 L’utilisateur peut accéder à sa page personnelle, démarrer l’activité ou lire des conseils diététiques
 Composants demandés
 
-	Capteur de pouls et fréquence cardiaque. Reference: https://www.amazon.fr/HALJIA-fréquence-Cardiaque-Pulsesensor-Raspberry/dp/B01CBGH4N6
-	Micro controleur esp32
-	Haut-parleur
-	Plaque d'Expérimentation Vierge Perforée
-	Ecran LCD - Rétroéclairé pour bracelet connecte
-	Micro-capteur d'humidité
+Capteur de pouls et fréquence cardiaque. Reference: https://www.amazon.fr/HALJIA-fréquence-Cardiaque-Pulsesensor-Raspberry/dp/B01CBGH4N6
+-Micro controleur esp32
+-Haut-parleur
+-plaque d'Expérimentation Vierge Perforée
+-Ecran LCD - Rétroéclairé pour bracelet connecte
+-Micro-capteur d'humidité
 	
 Idée numéro 2
 
